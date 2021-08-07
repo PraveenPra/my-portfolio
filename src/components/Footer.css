@@ -1,0 +1,15 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+
+footer{
+box-shadow:10px 10px 8px #cbced1,
+												-10px -10px 8px #ffffff;
+}
+
+footer >p{
+color:rgba(0,0,0,0.5);
+font-size:0.8rem;
+}
